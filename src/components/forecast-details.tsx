@@ -4,9 +4,6 @@ import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
 import {
   ArrowDown,
   ArrowUp,
-  ArrowUp01,
-  ArrowUpIcon,
-  ArrowUpLeftFromSquare,
   Droplets,
   Wind,
 } from "lucide-react";
